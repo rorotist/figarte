@@ -1,0 +1,113 @@
+
+html,
+body,
+p,
+ol,
+ul,
+li,
+dl,
+dt,
+dd,
+blockquote,
+figure,
+fieldset,
+legend,
+textarea,
+pre,
+iframe,
+hr,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  padding: 0;
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 100%;
+  font-weight: normal;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+button,
+input,
+select,
+textarea {
+  padding: 0;
+  border: 0 none;
+  margin: 0;
+  appearance: none;
+  background: 0 none;
+  border-radius: 0;
+  box-shadow: none;
+  font-family: 'Noto Sans KR', sans-serif;
+  outline: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+textarea:focus,
+input:focus {
+  outline: none;
+}
+
+textarea {
+  resize: none;
+}
+
+html {
+  box-sizing: border-box;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 14px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  letter-spacing: -0.6px;
+}
+
+img,
+video {
+  max-width: 100%;
+  height: auto;
+}
+
+iframe {
+  border: 0;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+td,
+th {
+  padding: 0;
+  text-align: left;
+}
+
+a {
+  color: $gray-800;
+  text-decoration: none;
+}
+
+img {
+  border: 0;
+}
