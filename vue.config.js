@@ -6,6 +6,8 @@ const StyleLintPlugin = require('stylelint-webpack-plugin')
 const isProduction = process.env.NODE_ENV === 'production'
 
 module.exports = {
+  publicPath: '/figarte/',
+  outputDir: 'docs',
   transpileDependencies: [ansiRegex],
   productionSourceMap: isProduction === false,
   parallel: false,
