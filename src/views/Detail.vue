@@ -49,7 +49,7 @@ export default {
     '$route.params.name': {
       async handler (val) {
         if (val && this.namesArr.includes(val)) {
-          const res = await axios.get(`/jsons/detail_${val}.json`)
+          const res = await axios.get(`/figarte/jsons/detail_${val}.json`)
           this.top = res.data.top
           this.contents = res.data.contents
         } else {

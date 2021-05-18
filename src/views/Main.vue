@@ -8,19 +8,19 @@
         <transition>
           <img
             v-show="isDesktop"
-            src="/images/teaser/pc_contents_wide.png"
+            src="/figarte/images/teaser/pc_contents_wide.png"
           />
         </transition>
         <transition>
           <img
             v-show="isTablet"
-            src="/images/teaser/pc_contents.png"
+            src="/figarte/images/teaser/pc_contents.png"
           />
         </transition>
         <transition>
           <img
             v-show="isMobile"
-            src="/images/teaser/mobile_contents.png"
+            src="/figarte/images/teaser/mobile_contents.png"
           />
         </transition>
       </div>
@@ -47,7 +47,7 @@
         class="contents__texts"
       >
         <img
-          src="/images/teaser/mobile_guide.png"
+          src="/figarte/images/teaser/mobile_guide.png"
         />
       </div>
     </div>

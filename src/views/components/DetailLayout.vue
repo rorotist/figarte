@@ -42,11 +42,11 @@
         <div class="foot-body__logos">
           <img
             v-if="!isMobile"
-            src="/images/detail/foot_logos.png"
+            src="/figarte/images/detail/foot_logos.png"
           />
           <img
             v-else
-            src="/images/detail/foot_logos_mo.png"
+            src="/figarte/images/detail/foot_logos_mo.png"
           />
         </div>
       </div>
