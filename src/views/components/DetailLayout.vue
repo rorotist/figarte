@@ -75,12 +75,12 @@ export default {
     }),
     snsImageSrc () {
       return (val) => {
-        return `/images/detail/top_${this.isMobile ? 'mo' : 'pc'}_${val}.png`
+        return `/figarte/images/detail/top_${this.isMobile ? 'mo' : 'pc'}_${val}.png`
       }
     }
   },
   async mounted () {
-    const res = await axios.get('/jsons/detail_header.json')
+    const res = await axios.get('/figarte/jsons/detail_header.json')
     this.snsLists = res.data.list
   }
 }
