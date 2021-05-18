@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/figarte/precache-manifest.8576ca74eb702b23bca7e5fd467b2ad1.js"
+  "/figarte/precache-manifest.70926325c33d39c0b45560bf4b98eb96.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "art_project"});

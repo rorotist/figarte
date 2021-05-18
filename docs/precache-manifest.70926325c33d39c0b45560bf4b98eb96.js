@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "962e86cfa9179e0d8dbd",
+    "revision": "271f1194bdd6977cd047",
     "url": "/figarte/css/Error.df95ec47.css"
   },
   {
-    "revision": "482021b9177973fe3288",
+    "revision": "6c23ec0221d39d8471cc",
     "url": "/figarte/css/Main.e5d9825a.css"
   },
   {
-    "revision": "82834c8851cd6c004d18",
+    "revision": "b3a108608f835045595f",
     "url": "/figarte/css/app.241bc2cb.css"
   },
   {
@@ -264,20 +264,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/figarte/images/teaser/texture.png"
   },
   {
-    "revision": "c8f55dd917efe424a2e879b69372bb0b",
+    "revision": "006ac3b559f7fff35c3d412e921d8dc8",
     "url": "/figarte/index.html"
   },
   {
-    "revision": "962e86cfa9179e0d8dbd",
-    "url": "/figarte/js/Error.44e5ad4b.js"
+    "revision": "271f1194bdd6977cd047",
+    "url": "/figarte/js/Error.e0c9ce5f.js"
   },
   {
-    "revision": "482021b9177973fe3288",
-    "url": "/figarte/js/Main.66baaeb0.js"
+    "revision": "6c23ec0221d39d8471cc",
+    "url": "/figarte/js/Main.743eeed7.js"
   },
   {
-    "revision": "82834c8851cd6c004d18",
-    "url": "/figarte/js/app.ee4b1554.js"
+    "revision": "b3a108608f835045595f",
+    "url": "/figarte/js/app.e1ec3aa6.js"
   },
   {
     "revision": "bfdf99434382936d65ac",
