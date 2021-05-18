@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5008bb44baef8cf1ecbd",
-    "url": "/figarte/css/Error.71a52c91.css"
+    "revision": "b2654e80571d2c4977f8",
+    "url": "/figarte/css/Error.0349fa69.css"
   },
   {
     "revision": "e30509506e93c3ec8b22",
     "url": "/figarte/css/Main.e45fe6d8.css"
   },
   {
-    "revision": "7684415d3e586e977049",
-    "url": "/figarte/css/app.6761d1a3.css"
+    "revision": "443d29469acf3a7be7c3",
+    "url": "/figarte/css/app.6d58bf54.css"
   },
   {
     "revision": "d9bca9fc23086287e26c130357a4491e",
@@ -264,20 +264,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/figarte/images/teaser/texture.png"
   },
   {
-    "revision": "9ad368aeb98441a7ecadcf76ac6a7043",
+    "revision": "760b5fc0ac80efec57de7d2c0887b282",
     "url": "/figarte/index.html"
   },
   {
-    "revision": "5008bb44baef8cf1ecbd",
-    "url": "/figarte/js/Error.4e8a8645.js"
+    "revision": "b2654e80571d2c4977f8",
+    "url": "/figarte/js/Error.daadf367.js"
   },
   {
     "revision": "e30509506e93c3ec8b22",
     "url": "/figarte/js/Main.d76ed9ec.js"
   },
   {
-    "revision": "7684415d3e586e977049",
-    "url": "/figarte/js/app.434c76db.js"
+    "revision": "443d29469acf3a7be7c3",
+    "url": "/figarte/js/app.04f9c566.js"
   },
   {
     "revision": "bfdf99434382936d65ac",

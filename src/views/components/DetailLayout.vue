@@ -159,8 +159,10 @@ export default {
 
     .mobile & {
       &::before {
+        left: 0;
         width: 100%;
         height: rem(136);
+        margin: 0;
         background-image: root('detail/bg_shape1_mo.png');
         background-position: 0 0;
         background-repeat: no-repeat;
